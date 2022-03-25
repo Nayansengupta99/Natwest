@@ -10,7 +10,7 @@ According to the question,
 
 Sender API:-
 Post Request: https://natwestsenderapi.herokuapp.com/transaction/send
-Request Body: 
+
                        
               {
           "accountNumber":12345678899,
