@@ -26,3 +26,4 @@ Receiver API to be triggered after triggering Sender API:
 
 Get Request: https://natwestreceiverapi.herokuapp.com/receiver/save
 
+H2-Console URL for DataLoad Check : https://natwestreceiverapi.herokuapp.com/h2-console/
